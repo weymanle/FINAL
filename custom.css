@@ -1,0 +1,20 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+#gallery {background-color; #FF69B4}
+
+
+#about {font-family: "Walter Turncoat", "Courier New", monospace; color: #000000;
+}
+
+#services {font-family: "Walter Turncoat", "Courier New", monospace; color: #FFFFFF;
+background-image: url('photos/pink.JPG');
+background-size: cover; background-repeat: no-repeat;
+text-align: left; }
+
+#awards {font-family: "Walter Turncoat", "Courier New", monospace; color: #000000;
+}
+
+
+#photos {font-family: "Walter Turncoat", "Courier New", monospace; color: #FFFFFF;
+background-image: url('photos/butterfly.JPG');
+background-size: cover; background-repeat: no-repeat;}
